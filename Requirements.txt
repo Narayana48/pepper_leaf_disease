@@ -1,6 +1,7 @@
-Flask==2.0.2
-matplotlib==3.5.1
-numpy==1.21.5
-opencv-python==4.5.5.62
-tensorflow==2.8.0
-keras==2.7.0
+numpy  # Replace with your preferred version
+matplotlib # Replace with your preferred version
+tk  # Use version compatible with Python 3
+keras  # Replace with your preferred version
+tensorflow # Replace with your preferred version
+flask
+opencv-python  # Replace with your preferred version
